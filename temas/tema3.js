@@ -38,9 +38,28 @@
 // } while (user !== userOk || pass !== passOk);
 
 // TAREA
-// Simule un ingreso de un numero de telefono en un prompt y valide si el dato es correcto por la cantidad de digitos y repita el ingreso las veces que sea necesario.
+// Simule un ingreso de un numero de telefono en un prompt y valide si el
+//dato es correcto por la cantidad de digitos y repita el ingreso las veces que sea necesario.
 
-// 2)
+// let numero=prompt("ingrese telefono");
+
+// if (numero.length===10) {
+//   alert("numero correcto")
+// }else{
+//   alert("su numero es incorrecto")
+// };
+// let numero = prompt("ingrese telefono");
+// do {
+
+
+//   if (numero.length === 10) {
+//     alert("numero correcto");
+//   } else {
+//     alert("su numero es incorrecto");
+//   }
+// } while (numero.length != 10);
+
+//2)
 
 // (AHORA CON FOR) Escribe un algoritmo que muestre los numeros del 1 al 10.
 
